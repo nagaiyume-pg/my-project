@@ -1,14 +1,14 @@
 {
-  "name": "myproject",
+  "name": "my-project",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/nagaiyume-pg/myproject#readme",
+  "homepage": "https://github.com/nagaiyume-pg/my-project#readme",
   "bugs": {
-    "url": "https://github.com/nagaiyume-pg/myproject/issues"
+    "url": "https://github.com/nagaiyume-pg/my-project/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nagaiyume-pg/myproject.git"
+    "url": "git+https://github.com/nagaiyume-pg/my-project.git"
   },
   "license": "ISC",
   "author": "",
