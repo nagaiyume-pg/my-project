@@ -1,10 +1,14 @@
-import Versions from './components/Versions'
-import electronLogo from './assets/electron.svg'
+// import Versions from './components/Versions'
+// import electronLogo from './assets/electron.svg'
 
 function App(): React.JSX.Element {
-  const ipcHandle = (): void => window.electron.ipcRenderer.send('ping')
+  // const ipcHandle = (): void => window.electron.ipcRenderer.send('ping')
 
   return (
+    <div className=''>
+      
+    </div>
+    /*
     <>
       <img alt="logo" className="logo" src={electronLogo} />
       <div className="creator">Powered by electron-vite</div>
@@ -29,6 +33,7 @@ function App(): React.JSX.Element {
       </div>
       <Versions></Versions>
     </>
+    */
   )
 }
 

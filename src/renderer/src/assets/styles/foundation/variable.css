@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+:root {
+    /* ブランドカラー */
+    --brand: #2563eb;
+
+    /* ベースカラー */
+    --red: #ef4444;
+    --orange: #f97316;
+    --yellow: #fde047;
+    --green: #16a34a;
+    --cyan: #22d3ee;
+    --blue: #3b82f6;
+    --purple: #a855f7;
+
+    /* グレースケール */
+    --gray-100: #f3f4f6;
+    --gray-200: #e5e7eb;
+    --gray-300: #d1d5db;
+    --gray-400: #9ca3af;
+    --gray-500: #6b7280;
+    --gray-600: #4b5563;
+    --gray-700: #374151;
+    --gray-800: #1f2937;
+    --gray-900: #111827;
+
+    /* 透明度 */
+    --opacity-100: 0.1;
+    --opacity-200: 0.2;
+    --opacity-300: 0.3;
+    --opacity-400: 0.4;
+    --opacity-500: 0.5;
+    --opacity-600: 0.6;
+    --opacity-700: 0.7;
+    --opacity-800: 0.8;
+    --opacity-900: 0.9;
+
+    /* スペーシング */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 16px;
+    --space-lg: 32px;
+    --space-xl: 64px;
+
+    /* フォントサイズ */
+    --fs-xxs: 0.625rem;  /* 10px */
+    --fs-xs:  0.75rem;   /* 12px */
+    --fs-sm:  0.875rem;  /* 14px */
+    --fs-md:  1rem;      /* 16px */
+    --fs-lg:  1.25rem;   /* 20px */
+    --fs-xl:  1.5rem;    /* 24px */
+    --fs-2xl: 1.75rem;   /* 28px */
+    --fs-3xl: 2rem;      /* 32px */
+
+    /* フォントファミリー */
+    --font-base: "BIZ UDPGothic", sans-serif;
+
+    /* フォントウェイト */
+    --fw-regular: 400;
+    --fw-bold: 700;
+}
