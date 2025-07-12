@@ -1,3 +1,16 @@
 @charset "UTF-8";
 
 @import "tailwindcss";
+
+/* react用のスタイル */
+
+body {
+    display: flex;
+    min-height: 100vh;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+}
